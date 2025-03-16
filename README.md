@@ -61,8 +61,7 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 
 1️. **Clone the Repository**  
 ```sh
-git clone https://github.com/your-repo/Olympic-Data-Dive-Uncovering-Trends-and-Patterns.git
-cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
+git clone https://github.com/MeeturiAjay/Olympic-Data-Dive-Uncovering-Trends-and-Patterns
 
 2. Install dependencies:
    ```bash
