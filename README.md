@@ -27,31 +27,6 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 - **Plotly** (For Advanced Visualizations)
 - **Olympics Dataset** (Kaggle / Open-source repositories)
 
-## ⚡ Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/olympics-analysis.git
-   cd olympics-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-
-## 🔄 Usage
-- Open the **Streamlit dashboard** in your browser.
-- Select different options to explore Olympic trends.
-- Enjoy interactive visualizations & insights!
-
-## 🌟 Screenshots
-| Medal Tally | Performance Over Time |
-|------------|--------------------|
-| ![Medal Tally](assets/medal_tally.png) | ![Performance Over Time](assets/performance.png) |
-
 
 # Olympic Data Dive: Uncovering Trends and Patterns  
 
@@ -97,6 +72,31 @@ This project provides an **in-depth analysis** of Olympic data to uncover **hist
 ```sh
 git clone https://github.com/your-repo/Olympic-Data-Dive-Uncovering-Trends-and-Patterns.git
 cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
+
+## ⚡ Installation & Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/olympics-analysis.git
+   cd olympics-analysis
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+   ```
+
+## 🔄 Usage
+- Open the **Streamlit dashboard** in your browser.
+- Select different options to explore Olympic trends.
+- Enjoy interactive visualizations & insights!
+
+## 🌟 Screenshots
+| Medal Tally | Performance Over Time |
+|------------|--------------------|
+| ![Medal Tally](assets/medal_tally.png) | ![Performance Over Time](assets/performance.png) |
 
 
 
