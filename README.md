@@ -3,6 +3,8 @@
 ## 📝 Overview
 Welcome to the **Olympics Data Analysis Dashboard**, an interactive web application built using **Streamlit** that provides deep insights into Olympics data. Explore athlete statistics, medal tallies, historical trends, and much more!
 
+---
+
 ## 🔍 Features
 ### 🏅 Medal Tally
 - View **overall** medal standings by country and year.
@@ -21,23 +23,13 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 - Visualize the number of **participating nations & athletes** across years.
 - Track the **evolution of sports** in the Olympics.
 
+---
+
 ## 🤝 Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Streamlit** (For UI & Interactivity)
 - **Plotly** (For Advanced Visualizations)
 - **Olympics Dataset** (Kaggle / Open-source repositories)
-
-
-# Olympic Data Dive: Uncovering Trends and Patterns  
-
-This project provides an **in-depth analysis** of Olympic data to uncover **historical trends, athlete performances, and country-wise statistics** through **interactive visualizations**.  
-
-## 🚀 Features  
-
-✅ **Interactive Visualizations** – Explore Olympic trends with insightful graphs 📊  
-✅ **Medal Distribution Analysis** – Identify country-wise and athlete-wise medal counts 🏅  
-✅ **Athlete Performance Tracking** – Discover top-performing athletes over the years 🏃‍♂️  
-✅ **Historical Data Insights** – Analyze patterns across different Olympic seasons  
 
 ---
 
@@ -81,6 +73,8 @@ cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
    ```bash
    streamlit run app.py
    ```
+
+---
 
 ## 🔄 Usage
 - Open the **Streamlit dashboard** in your browser.
