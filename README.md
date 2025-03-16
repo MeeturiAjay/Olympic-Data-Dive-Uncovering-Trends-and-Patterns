@@ -38,19 +38,18 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 ### 🏅 Medal Distribution Analysis  
 ![Medal Distribution](Screesnshots/Screenshot%202025-03-16%20123213.png)  
 
-### 🌍 Country-Wise Performance Trends  
+### 🌍 Overall Analysis
 ![Country-Wise Trends](Screesnshots/Screenshot%202025-03-16%20123329.png)  
-
-### 🏆 Top Performing Athletes  
+  
 ![Top Athletes](Screesnshots/Screenshot%202025-03-16%20123344.png)  
 
 ### 📊 Historical Olympic Trends  
 ![Historical Trends](Screesnshots/Screenshot%202025-03-16%20123401.png)  
 
-### 📈 Medal Count Over Time  
+### 📈 Country wise Analysis 
 ![Medal Count Over Time](Screesnshots/Screenshot%202025-03-16%20123459.png)  
 
-### 🎯 Sports Performance Breakdown  
+### 🎯 Age Distribution of Athletes 
 ![Sports Performance](Screesnshots/Screenshot%202025-03-16%20123533.png)  
 
 ### 🚻 Gender Representation in Olympics  
