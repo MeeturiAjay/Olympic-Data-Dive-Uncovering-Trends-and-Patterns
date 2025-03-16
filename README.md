@@ -52,9 +52,4 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 |------------|--------------------|
 | ![Medal Tally](assets/medal_tally.png) | ![Performance Over Time](assets/performance.png) |
 
-## 🌟 Contributing
-We welcome contributions! Feel free to fork this repo, open issues, or submit pull requests.
-
-## 💎 Credits
-Developed with ❤️ by [Your Name](https://github.com/your-username)
 
