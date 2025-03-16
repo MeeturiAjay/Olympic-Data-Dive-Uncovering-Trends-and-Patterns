@@ -68,17 +68,11 @@ This project provides an **in-depth analysis** of Olympic data to uncover **hist
 
 ## 🔧 Installation Guide  
 
-1️⃣ **Clone the Repository**  
+1️. **Clone the Repository**  
 ```sh
 git clone https://github.com/your-repo/Olympic-Data-Dive-Uncovering-Trends-and-Patterns.git
 cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
 
-## ⚡ Installation & Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/olympics-analysis.git
-   cd olympics-analysis
-   ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
@@ -92,11 +86,6 @@ cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
 - Open the **Streamlit dashboard** in your browser.
 - Select different options to explore Olympic trends.
 - Enjoy interactive visualizations & insights!
-
-## 🌟 Screenshots
-| Medal Tally | Performance Over Time |
-|------------|--------------------|
-| ![Medal Tally](assets/medal_tally.png) | ![Performance Over Time](assets/performance.png) |
 
 
 
