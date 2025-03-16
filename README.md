@@ -53,3 +53,50 @@ Welcome to the **Olympics Data Analysis Dashboard**, an interactive web applicat
 | ![Medal Tally](assets/medal_tally.png) | ![Performance Over Time](assets/performance.png) |
 
 
+# Olympic Data Dive: Uncovering Trends and Patterns  
+
+This project provides an **in-depth analysis** of Olympic data to uncover **historical trends, athlete performances, and country-wise statistics** through **interactive visualizations**.  
+
+## 🚀 Features  
+
+✅ **Interactive Visualizations** – Explore Olympic trends with insightful graphs 📊  
+✅ **Medal Distribution Analysis** – Identify country-wise and athlete-wise medal counts 🏅  
+✅ **Athlete Performance Tracking** – Discover top-performing athletes over the years 🏃‍♂️  
+✅ **Historical Data Insights** – Analyze patterns across different Olympic seasons  
+
+---
+
+## 📸 Screenshots  
+
+### 🏅 Medal Distribution Analysis  
+![Medal Distribution](Screesnshots/Screenshot%202025-03-16%20123213.png)  
+
+### 🌍 Country-Wise Performance Trends  
+![Country-Wise Trends](Screesnshots/Screenshot%202025-03-16%20123329.png)  
+
+### 🏆 Top Performing Athletes  
+![Top Athletes](Screesnshots/Screenshot%202025-03-16%20123344.png)  
+
+### 📊 Historical Olympic Trends  
+![Historical Trends](Screesnshots/Screenshot%202025-03-16%20123401.png)  
+
+### 📈 Medal Count Over Time  
+![Medal Count Over Time](Screesnshots/Screenshot%202025-03-16%20123459.png)  
+
+### 🎯 Sports Performance Breakdown  
+![Sports Performance](Screesnshots/Screenshot%202025-03-16%20123533.png)  
+
+### 🚻 Gender Representation in Olympics  
+![Gender Representation](Screesnshots/Screenshot%202025-03-16%20123546.png)  
+
+---
+
+## 🔧 Installation Guide  
+
+1️⃣ **Clone the Repository**  
+```sh
+git clone https://github.com/your-repo/Olympic-Data-Dive-Uncovering-Trends-and-Patterns.git
+cd Olympic-Data-Dive-Uncovering-Trends-and-Patterns
+
+
+
